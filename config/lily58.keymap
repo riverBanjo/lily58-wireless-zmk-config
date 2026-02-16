@@ -49,7 +49,7 @@
             display-name = "Lower";
             bindings = <
 &bt BT_CLR  &bt BT_SEL 0   &bt BT_SEL 1          &bt BT_SEL 2    &bt BT_SEL 3       &bt BT_SEL 4                    &trans      &trans                  &trans             &trans                 &trans            &trans
-&trans      &kp TILDE      &kp GRAVE             &kp SQT         &kp DOUBLE_QUOTES  &trans                          &trans      &kp EQUAL               &kp UNDERSCORE     &kp MINUS              &kp SEMICOLON     &trans
+&trans      &kp TILDE      &kp GRAVE             &kp SQT         &kp DOUBLE_QUOTES  &trans                          &trans      &kp EQUAL               &kp UNDERSCORE     &kp MINUS              &kp SEMICOLON     &kp PLUS
 &trans      &kp LESS_THAN  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET   &kp PIPE                        &kp DOLLAR  &kp RIGHT_BRACKET       &kp RIGHT_BRACE    &kp RIGHT_PARENTHESIS  &kp GREATER_THAN  &trans
 &trans      &trans         &kp LA(UP_ARROW)      &kp LA(DOWN)    &kp LC(LS(DOWN))   &trans        &trans    &trans  &trans      &kp LC(LS(LEFT_ARROW))  &kp LC(LS(RIGHT))  &trans                 &trans            &trans
                                                  &trans          &trans             &trans        &trans    &trans  &trans      &trans                  &trans
